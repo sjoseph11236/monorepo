@@ -1,8 +1,10 @@
 import React from 'react';
 
-
-export default function Button() {
+type ButtonProps = {
+  name: string;
+}
+export default function Button({ name }: ButtonProps) {
   return (
-    <button>Hello World test  agian</button>
+    <button>{name}</button>
   )
 }
