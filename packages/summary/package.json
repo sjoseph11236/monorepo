@@ -55,5 +55,6 @@
     "prop-types": "^15.8.1",
     "storybook": "^7.6.8",
     "webpack": "^5.89.0"
-  }
+  },
+  "gitHead": "4860ba1f1c314e9ef2fcd6d49b011616812e92e6"
 }

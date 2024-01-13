@@ -1,5 +1,5 @@
 {
-  "name": "@wholata/monorepo",
+  "name": "@lata/monorepo",
   "version": "1.0.0",
   "description": "",
   "private": false,
@@ -13,5 +13,8 @@
   "dependencies": {},
   "devDependencies": {
     "lerna": "^8.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
